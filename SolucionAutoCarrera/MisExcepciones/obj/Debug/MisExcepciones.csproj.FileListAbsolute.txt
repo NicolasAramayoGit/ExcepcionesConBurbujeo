@@ -1,0 +1,5 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\SolucionAutoCarrera\MisExcepciones\bin\Debug\MisExcepciones.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\SolucionAutoCarrera\MisExcepciones\bin\Debug\MisExcepciones.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\SolucionAutoCarrera\MisExcepciones\obj\Debug\MisExcepciones.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\SolucionAutoCarrera\MisExcepciones\obj\Debug\MisExcepciones.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\SolucionAutoCarrera\MisExcepciones\obj\Debug\MisExcepciones.pdb

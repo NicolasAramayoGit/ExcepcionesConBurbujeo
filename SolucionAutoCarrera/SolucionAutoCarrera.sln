@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{90D264AC-0C0D-455B-A923-C92444074EED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MisExcepciones", "MisExcepciones\MisExcepciones.csproj", "{C6979BB1-0610-4AF9-8C37-D7AF057E843D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcepcionVistaConsola", "ExcepcionVistaConsola\ExcepcionVistaConsola.csproj", "{7A850276-5974-40FB-B042-2EAE5EA12476}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90D264AC-0C0D-455B-A923-C92444074EED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90D264AC-0C0D-455B-A923-C92444074EED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90D264AC-0C0D-455B-A923-C92444074EED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90D264AC-0C0D-455B-A923-C92444074EED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6979BB1-0610-4AF9-8C37-D7AF057E843D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6979BB1-0610-4AF9-8C37-D7AF057E843D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6979BB1-0610-4AF9-8C37-D7AF057E843D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6979BB1-0610-4AF9-8C37-D7AF057E843D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A850276-5974-40FB-B042-2EAE5EA12476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A850276-5974-40FB-B042-2EAE5EA12476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A850276-5974-40FB-B042-2EAE5EA12476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A850276-5974-40FB-B042-2EAE5EA12476}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
